@@ -8,7 +8,8 @@ module.exports = {
       chains: {
         8453: {
           hardforkHistory: {
-            ithsmus: 30000000,
+            cancun: 12000000,
+            prague: 30000000,
           }
         }
       }
